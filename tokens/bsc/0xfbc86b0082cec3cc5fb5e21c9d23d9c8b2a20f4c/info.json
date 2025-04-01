@@ -1,8 +1,17 @@
 {
   "name": "Pyramid",
   "symbol": "PYRD",
-  "address": "0xfbc86b0082cec3cc5fb5e21c9d23d9c8b2a20f4c",
+  "address": "0xfbc86b0082CeC3Cc5fb5E21c9d23D9C8B2a20f4c",
   "chainId": 56,
   "decimals": 18,
-  "logoURI": "https://raw.githubusercontent.com/pyramidpyrd/Bogged-Token-List/main/tokens/bsc/0xfbc86b0082cec3cc5fb5e21c9d23d9c8b2a20f4c/logo.png"
+  "logoURI": "https://raw.githubusercontent.com/YOUR_USERNAME/Bogged-Token-List/main/icons/0xfbc86b0082CeC3Cc5fb5E21c9d23D9C8B2a20f4c/logo.png",
+  "tags": ["meme", "community", "no tax"],
+  "description": "PYRAMID ($PYRD) — the true story behind all of crypto, for the whole world to hear. A reminder that crypto was meant to be freedom — not a casino for the rich. The truth? It’s all one big pyramid. Let’s share that truth with the world, together.",
+  "links": {
+    "twitter": "https://x.com/Pyramid_pyrd",
+    "telegram": "https://t.me/pyramid_pyrd",
+    "website": "https://linktr.ee/pyramidpyrd",
+    "liquidity_lock": "https://www.dx.app/dxlock/view/liquidity-locker?address=0x69390ff53d0b8be8c4d7b62b6cb40be684094a1f&chain=56"
+  }
 }
+
